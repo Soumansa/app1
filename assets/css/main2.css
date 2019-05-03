@@ -1,0 +1,76 @@
+body{
+    background-image: url(../img/mer.jpg);
+    height: 300px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.bg-light {
+    background-color: transparent;
+    margin-left: 100px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(14, 10, 175, 0.7);
+}
+
+
+div.polaroid {
+    width: 80%;
+    background-color: transparent;
+    transition: auto;
+           
+}
+.navbar-expand-lg .navbar-collapse {
+    display: -ms-flexbox!important;
+    display: flex!important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+    margin-left: 200px;
+}
+
+
+
+.navbar-light .navbar-brand {
+    color: #0d72af;
+}
+.color {
+    background-color: whitesmoke;
+   height: 250px;
+   margin-top: 400px;
+}
+.img1{
+    margin-top: 20px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    color: brown;
+    
+}
+.img2{
+    margin-top: 20px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+   background-color: green;
+
+
+}
+.img3{
+    margin-top: 20px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    
+    }
+    .cen{
+        text-align: center;
+    }
+    .para{
+        text-align: center;
+        color: white;
+        margin-top: 200px;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    
